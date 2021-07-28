@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/trace02/static/css/main.90673bf3.chunk.css",
+    "main.js": "/trace02/static/js/main.578d321a.chunk.js",
+    "main.js.map": "/trace02/static/js/main.578d321a.chunk.js.map",
+    "runtime-main.js": "/trace02/static/js/runtime-main.a5e2a6fd.js",
+    "runtime-main.js.map": "/trace02/static/js/runtime-main.a5e2a6fd.js.map",
+    "static/js/2.0776a14c.chunk.js": "/trace02/static/js/2.0776a14c.chunk.js",
+    "static/js/2.0776a14c.chunk.js.map": "/trace02/static/js/2.0776a14c.chunk.js.map",
+    "static/js/3.dd157172.chunk.js": "/trace02/static/js/3.dd157172.chunk.js",
+    "static/js/3.dd157172.chunk.js.map": "/trace02/static/js/3.dd157172.chunk.js.map",
+    "index.html": "/trace02/index.html",
+    "static/css/main.90673bf3.chunk.css.map": "/trace02/static/css/main.90673bf3.chunk.css.map",
+    "static/js/2.0776a14c.chunk.js.LICENSE.txt": "/trace02/static/js/2.0776a14c.chunk.js.LICENSE.txt",
+    "static/media/books.9ac32f04.png": "/trace02/static/media/books.9ac32f04.png",
+    "static/media/charleston.f8d313df.jpg": "/trace02/static/media/charleston.f8d313df.jpg",
+    "static/media/dogs.0a26f45b.jpg": "/trace02/static/media/dogs.0a26f45b.jpg",
+    "static/media/piano.4165bf4f.jpg": "/trace02/static/media/piano.4165bf4f.jpg",
+    "static/media/profile.ac47fd6b.jpg": "/trace02/static/media/profile.ac47fd6b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5e2a6fd.js",
+    "static/js/2.0776a14c.chunk.js",
+    "static/css/main.90673bf3.chunk.css",
+    "static/js/main.578d321a.chunk.js"
+  ]
+}
